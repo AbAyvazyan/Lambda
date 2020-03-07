@@ -9,7 +9,7 @@ $(document).ready(function() {
       var topPos = $(this).scrollTop();
       if (topPos > 30) {
         $(navbar).css({"background-color": "#000000af"});
-        $(".lambdaimg").attr("src","../images/logo.png");
+        $(".lambdaimg").attr("src","./images/logo.png");
         $(".hda").css({"color": "gold"});
         $(".fixed").css("display","block");
         $(".sec1animateimg").animate({'right': "100"},3000);
