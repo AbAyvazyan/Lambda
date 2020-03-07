@@ -1,0 +1,332 @@
+::selection{
+    color: white;
+    background: gold;
+}
+
+img{
+    user-select: none;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+
+header{
+    background-image: url("../images/header-bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    background-size: 100% 100%;
+    padding-top: 1px;
+    margin-bottom: 0;
+    padding-bottom: 40px;
+}
+
+.ico{
+    color: gold;
+}
+
+.navul li{
+    font-size: 20px;
+}
+
+.nav-item > a{
+    font-size:100%;
+    color: white;
+}
+
+nav{
+    margin-right: 0;
+    float: left;
+    margin-left: 0;
+    padding-left: 70px!important;
+}
+
+h1{
+    color: white;
+    font-family:  Playfair Display ;
+    font-size: 500%;
+    text-align: center;
+    letter-spacing: 5px;
+    margin-top: 13%;
+}
+
+.hddeviderdiv{
+    width: 100%;
+    text-align: center;
+}
+
+.hddevider{
+    width: 25%;
+}
+
+.hdbuttondiv{
+    width: 100%;
+    height: 40px;
+    margin-top: 40px;
+    margin-bottom: 5%;
+}
+
+.leftbut{
+    text-align: right;
+    height: 100%;
+    margin-bottom: 10px;
+}
+
+.rightbut{
+    height: 100%;
+    overflow: hidden;
+}
+
+
+
+.hdbuttondiv button{
+    color: white;
+    border: 0;
+    width: 100%;
+    outline: none;
+    text-align: center;
+}
+
+.hdbutton1{
+    background-color: rgba(0,0,0,0.7);
+    float: right;
+    height: 100%;
+}
+
+.hdbutton2{
+    background-color: rgba(255,255,255,0.3);
+    float: left;
+    height: 100%;
+}
+
+.section1{
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background-image: url("../images/back.png");
+    background-size: 100% 100%;
+    user-select: none;
+    overflow: hidden;
+}
+
+.sec1d1{
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 50px;
+}
+.sec1d2{
+    width: 100%;
+    float: right;
+    text-align: center;
+}
+
+.sec1d2 img{
+    width: 80%;
+}
+
+.sec1d1 img{
+    width: 35%;
+}
+
+.sec1d1 p{
+    width: 65%;
+    text-align: center;
+    display: inline-block;
+}
+
+
+.sec1sp1{
+    display: inline-block;
+    color: gold;
+    font-size: 30px;
+}
+
+.sec1p1{
+    margin-bottom: 40px;
+    user-select: text;
+}
+
+
+.section2{
+    background-image: url("../images/Untitled-2.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: white;
+    padding: 100px 90px;
+}
+
+
+.s2r1c2{
+    text-align: center;
+    background-color: rgba(0,0,0,0.7);
+    padding-top: 50px;
+}
+
+.s2imgdiv{
+    text-align: center;
+    display: inline-block
+}
+
+.s2imgdiv img{
+    width: 25%;
+    margin-bottom: 30px;
+}
+
+.s2p1{
+    font-size: 30px;
+}
+
+.s2p1 + img{
+    width: 50%;
+}
+
+
+.section3{
+    background-image: url("../images/back.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    }
+
+    
+    
+    .bgraund4 span{
+      color: #c90;
+          font-size: 18px;
+    }
+    .bgraund4 h2{
+      color: #c90;
+      }
+    
+    .span1{
+      float: left;
+    }
+    .span2{
+      float: right;
+    }
+    .tox{
+          padding-bottom: 19px;
+    }
+    .tox1{
+      color: black;
+    }
+    
+    .special{
+      border: 1px solid;
+      position: relative;
+      color: #c90;
+    
+    }
+    
+    .special1{
+        float: right;
+      
+        border: 1px solid;
+        position: absolute;
+        top: -26px;
+        right: -1px;
+          background-color: #c90;
+           color: white;
+    
+    }
+    .pspan{
+      border-color: rgba(148,148,148,0.404);
+      height: 40px;
+    }
+
+    .section3 hr{
+        color: #c90;
+        background-color: gold;
+    }
+
+
+.section4{
+    background-image: url("../images/Untitled-3.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    padding: 100px 0;
+}
+
+.s4d1{
+   background-color: rgba(0,0,0,0.9);
+   text-align: center;
+   color: white;
+   padding: 50px 30px;
+}
+
+.s4d1p1{
+    font-size: 35px;
+}
+
+.s4d1p1 + img{
+    width: 80%;
+    margin-bottom: 30px;
+}
+
+.div7 img{
+    margin-bottom: 20px;
+}
+
+.icodiv{
+    user-select: none;
+}
+
+.icodiv i{
+    text-align: center;
+    margin: 0 5px;
+}
+
+.icodiv a{
+    color: white;
+}
+
+.naxs{
+    margin:10px 0;
+}
+
+.fixed{
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    width: 35px;
+    height: 35px;
+    background: rgba(0,0,0,0.7);
+    color: white;
+    line-height: 35px;
+    text-align: center;
+    cursor: pointer;
+    display: none;
+}
+
+.fixed:hover{
+    color: grey;
+}
+
+.fulld{
+    width: 80%;
+}
+
+.nkar2{
+    float: left;
+}
+
+.nkar3{
+   float: right;    
+}
+
+.error {
+    color: red;
+    margin-left: 5px;
+  }
+
+
+.closerdiv{
+background: black;
+position: absolute;
+}
