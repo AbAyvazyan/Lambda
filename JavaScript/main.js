@@ -16,7 +16,7 @@ $(document).ready(function() {
         $(".spbutt").css({"color": "white"});
       } else {
         $(navbar).css("background-color", "#00000023");
-        $(".lambdaimg").attr("src","../images/header-logo.png");
+        $(".lambdaimg").attr("src","./images/header-logo.png");
         $(".hda").css({"color": "white"});
         $(".fixed").css("display","none");
         $(".spbutt").css({"color": "black"});
