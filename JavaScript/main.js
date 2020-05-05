@@ -1,3 +1,7 @@
+$(window).on("load",function(){
+  $(".animate").fadeOut();
+});
+
 $(document).ready(function() {
 
   $(window).on('beforeunload', function() {
