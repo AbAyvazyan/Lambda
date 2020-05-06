@@ -4,8 +4,6 @@ $(window).on("load",function(){
 
 $(document).ready(function() {
 
-  $(".animate").css({"display":"none"})
-
   $(window).on('beforeunload', function() {
     $(window).scrollTop(0);
   });
